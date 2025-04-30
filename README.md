@@ -4,4 +4,5 @@ This project contains the Entity-Relationship Diagram (ERD) and SQL script for a
 
 #Active members:
 Sheila Wambui
+
 Jackton Otieno
